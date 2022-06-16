@@ -1,4 +1,5 @@
 # Online Gym Website
+[![Netlify Status](https://api.netlify.com/api/v1/badges/837df1b6-0c5e-4fc6-9a77-7d9f1a970b8a/deploy-status)](https://app.netlify.com/sites/online-gym/deploys)
 
 This is a website that displays various exercises and the muscles targeted by them, and also shows gifs and video tutorials to properly do them.
 

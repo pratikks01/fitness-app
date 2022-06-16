@@ -1,6 +1,6 @@
 import React from "react";
 import { Stack } from "@mui/material";
-import { InfinitySpin } from "react-loader-spinner";
+import { Triangle } from "react-loader-spinner";
 
 const Loader = () => (
 	<Stack
@@ -9,7 +9,8 @@ const Loader = () => (
 		alignItems="center"
 		width="100%"
 	>
-		<InfinitySpin color="blue" />
+		{/* <InfinitySpin color="red" /> */}
+		<Triangle ariaLabel="loading-indicator" color="red" />
 	</Stack>
 );
 

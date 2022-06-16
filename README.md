@@ -28,6 +28,7 @@ https://online-gym.netlify.app/
 
 ### The exercise that is clicked is opened in full screen 
 It is followed by a short description of the exercise.
+
 and the Muscle targeted and the equipment used in the particular exercise
 ![5](https://user-images.githubusercontent.com/48235970/174023450-7995029e-7fd4-4584-8394-42a71af81a0f.png)
 

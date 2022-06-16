@@ -1,6 +1,6 @@
 import React from "react";
 import { Box, Stack, Typography } from "@mui/material";
-import Logo from "../assets/images/icons8-exercise-64.png";
+import Logo from "../assets/images/musIcon.png";
 
 const Footer = () => (
 	<Box mt="80px" bgcolor="#FFF3F4">

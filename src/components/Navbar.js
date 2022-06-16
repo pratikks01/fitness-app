@@ -2,7 +2,7 @@ import React from "react";
 import { Link } from "react-router-dom";
 import { Stack } from "@mui/material";
 
-import Logo from "../assets/images/icons8-exercise-64.png";
+import Logo from "../assets/images/musIcon.png";
 
 const Navbar = () => (
 	<Stack

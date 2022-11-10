@@ -16,6 +16,8 @@ ExerciseDB and YT download APIs were used to fetch data from the RapidAPI cloud,
 
 https://online-gym.netlify.app/
 
+https://onlinegym.azurewebsites.net/
+
 ### Landing Page of the website
 
 ![1](https://user-images.githubusercontent.com/48235970/174018766-555abc1c-ab5d-43f3-864a-23c85eb55420.png)
